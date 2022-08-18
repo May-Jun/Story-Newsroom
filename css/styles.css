@@ -1,0 +1,72 @@
+body {
+    font-family: '方正书宋简体', Verdana, sans-serif;
+    text-align: center;
+}
+
+.bg-img {
+    position: relative;
+    z-index: -1;
+    width: 100%;
+    height: auto;
+}
+
+
+/* Title */
+.big-title {
+    position: absolute;
+    z-index: 1;
+    top: 40%;
+    right: 2%;
+    width: 40%;
+    font-family: '华文新魏', '微软雅黑', Georgia, serif;
+    font-size: 8.5rem;
+    text-shadow: #8d8d8d 10px 10px 2px;
+    color: #ffffff;
+    line-height: 1.5;
+}
+
+/* Top Section */
+#Top {   
+    width: 100%;
+    height: auto;
+}
+
+.nav-item {
+    font-family: '黑体', Times, sans-serif;
+    font-size: 1.25rem;
+    margin: 10px 30px;
+}
+
+.nav-icon {
+    color: #a5c9ca;
+}
+
+
+
+/* Intro Section */
+#Intro {
+    width: 100%;
+    height: auto;
+}
+
+.intro-column {
+    position: absolute;
+    z-index: 1;
+    top: 40%;
+    padding: 50px;
+}
+
+.intro-img {
+    width: 50%;
+}
+
+
+/* News Section */
+
+
+
+
+
+/* Footer Section */
+
+
